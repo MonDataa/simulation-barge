@@ -1,0 +1,37 @@
+{
+    "A": {
+      "loading": [1, 2],
+      "unloading": [2, 3],
+      "demands": [
+        {"ContainerID": "C8", "Origin": "A", "Destination": "B", "date_depart": 2, "date_arrivee": 5, "Quantity": 12},
+        {"ContainerID": "C9", "Origin": "A", "Destination": "C", "date_depart": 1, "date_arrivee": 4, "Quantity": 7},
+        {"ContainerID": "C10", "Origin": "A", "Destination": "D", "date_depart": 1, "date_arrivee": 3, "Quantity": 20}
+      ]
+    },
+    "B": {
+      "loading": [3, 4],
+      "unloading": [3, 4],
+      "idle": [5, 5],
+      "demands": [
+        {"ContainerID": "C11", "Origin": "B", "Destination": "A", "date_depart": 4, "date_arrivee": 6, "Quantity": 25},
+        {"ContainerID": "C12", "Origin": "B", "Destination": "C", "date_depart": 3, "date_arrivee": 5, "Quantity": 40}
+      ]
+    },
+    "C": {
+      "loading": [4, 5],
+      "unloading": [4, 5],
+      "demands": [
+        {"ContainerID": "C20", "Origin": "C", "Destination": "A", "date_depart": 0, "date_arrivee": 7, "Quantity": 7},
+        {"ContainerID": "C21", "Origin": "C", "Destination": "B", "date_depart": 1, "date_arrivee": 6, "Quantity": 8}
+      ]
+    },
+    "D": {
+      "loading": [3, 4],
+      "unloading": [3, 4],
+      "demands": [
+        {"ContainerID": "C13", "Origin": "D", "Destination": "B", "date_depart": 4, "date_arrivee": 6, "Quantity": 30},
+        {"ContainerID": "C14", "Origin": "D", "Destination": "C", "date_depart": 3, "date_arrivee": 8, "Quantity": 50}
+      ]
+    }
+  }
+  
