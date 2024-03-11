@@ -9,7 +9,7 @@ Ce projet nécessite l'installation de certaines dépendances Python. Vous pouve
 Exécutez la commande suivante dans votre terminal pour installer les dépendances requises :
 
 ```bash
-pip install pandas simpy matplotlib
+pip install requests pandas simpy matplotlib
 ```
 
 ## example des resultats de simulation (reseaux espace de temps , analyse statistique)
