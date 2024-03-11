@@ -10,3 +10,8 @@ Exécutez la commande suivante dans votre terminal pour installer les dépendanc
 
 ```bash
 pip install pandas simpy matplotlib
+```
+
+## example des resultats de simulation (reseaux espace de temps , analyse statistique)
+
+
