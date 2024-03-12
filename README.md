@@ -12,6 +12,27 @@ Exécutez la commande suivante dans votre terminal pour installer les dépendanc
 pip install requests pandas simpy matplotlib
 ```
 
-## example des resultats de simulation (reseaux espace de temps , analyse statistique)
+lancer le programme (assurer que vous etes dans le meme chemin de programme): 
+
+```bash
+python main.py
+```
+
+## example des resultats de simulation (reseaux espace de temps)
+
+![Capture d'écran : reseaux espace de temps](https://github.com/MonDataa/chat_multithread_javafx/blob/main/client_chat_screen_shot.png)
+
+## analyse statistique (nombre de containeur)
+
+# port A : 
+
+![Capture d'écran : nombre de containeur A](https://github.com/MonDataa/chat_multithread_javafx/blob/main/client_chat_screen_shot.png)
+
+# port B : 
+
+![Capture d'écran : nombre de containeur B](https://github.com/MonDataa/chat_multithread_javafx/blob/main/client_chat_screen_shot.png)
+
+
+
 
 
