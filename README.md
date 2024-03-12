@@ -18,19 +18,19 @@ lancer le programme (assurer que vous etes dans le meme chemin de programme):
 python main.py
 ```
 
-## example des resultats de simulation (reseaux espace de temps)
+## example des resultats de simulation (reseaux espace de temps,graphique animer)
 
-![Capture d'écran : reseaux espace de temps](https://github.com/MonDataa/chat_multithread_javafx/blob/main/client_chat_screen_shot.png)
+![Capture d'écran : reseaux espace de temps](https://github.com/MonDataa/simulation-barge/blob/main/reseau_espace_temps.png)
 
 ## analyse statistique (nombre de containeur)
 
 # port A : 
 
-![Capture d'écran : nombre de containeur A](https://github.com/MonDataa/chat_multithread_javafx/blob/main/client_chat_screen_shot.png)
+![Capture d'écran : nombre de containeur A](https://github.com/MonDataa/simulation-barge/blob/main/nbr_conteneur_a.png)
 
 # port B : 
 
-![Capture d'écran : nombre de containeur B](https://github.com/MonDataa/chat_multithread_javafx/blob/main/client_chat_screen_shot.png)
+![Capture d'écran : nombre de containeur B](https://github.com/MonDataa/simulation-barge/blob/main/nbr_conteneur_b.png)
 
 
 
