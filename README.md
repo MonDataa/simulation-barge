@@ -17,8 +17,11 @@ lancer le programme (assurer que vous etes dans le meme chemin de programme):
 ```bash
 python main.py
 ```
+## matrice de routage 
 
-## example des resultats de simulation (reseaux espace de temps,graphique animer)
+![Capture d'écran : matrice de routage](https://github.com/MonDataa/simulation-barge/blob/main/matrice_routage.png)
+
+## resultats de simulation (reseaux espace de temps,graphique animer)
 
 ### simulation_time = 30
 
