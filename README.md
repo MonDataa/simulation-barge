@@ -19,7 +19,7 @@ python main.py
 ```
 ## matrice de routage 
 
-![Capture d'écran : matrice de routage](https://github.com/MonDataa/simulation-barge/blob/main/matrice_routage.png)
+![Capture d'écran : matrice de routage](https://github.com/MonDataa/simulation-barge/blob/main/matrice_routage.PNG)
 
 ## resultats de simulation (reseaux espace de temps,graphique animer)
 
