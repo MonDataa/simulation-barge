@@ -20,9 +20,11 @@ python main.py
 
 ## example des resultats de simulation (reseaux espace de temps,graphique animer)
 
+### simulation_time = 30
+
 ![Capture d'écran : reseaux espace de temps](https://github.com/MonDataa/simulation-barge/blob/main/reseau_espace_temps.png)
 
-## analyse statistique (nombre de containeur)
+## analyse statistique (nombre de containeur au file du temps)
 
 # port A : 
 
